@@ -12,11 +12,12 @@ const vanessa = {
   technologies: [Bootstrap, node.js, Git, Webpack5, VSCode, GitHub],
 }
 ```
-<a href="https://github.com/vvoo21"><img align="right" alt="cup of coffe" width="150" height="150" src="200w.gif"></a>
 
-## Find me around the web 🌎: 
+## 📊 GitHub Stats 
+<a href="https://github.com/vvoo21"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vvoo21&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true" alt="vanessa oliveros | Langs" /></a> <a href="https://github.com/vvoo21"><img align="right" alt="cup of coffe" width="150" height="150" src="200w.gif"></a>
+
+## 🌎 Find me around the web: 
 
 <img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="Linkedin (1).svg" />
-<img align="left" alt="Vanessa Oliveros | Instagram" width="22px" src="github.svg" />
 <img align="left" alt="Souarvdey777 | Twitter" width="22px" src="Twitter (1).svg" />
 
