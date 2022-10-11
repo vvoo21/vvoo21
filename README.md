@@ -5,3 +5,13 @@ I am currently studying to become a professional software developer at Microvers
 
 ## Find me around the web 🌎: <a href="https://github.com/vvoo21"><img style="align-items:flex-end;" width="150" height="150" src="200w.gif"></a>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const vanessa = {
+  pronouns: "she" | "her",
+  code: [JavaScript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
+
